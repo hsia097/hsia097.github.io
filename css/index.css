@@ -628,7 +628,7 @@ body::after {
   position: fixed;
   height: 100vh;
   z-index: -2;
-  background: url("/images/banner/ce329083a43b4526ac6129f8c651bae5.jpg") no-repeat center/cover;
+  background: url("/images/banner/wallhaven-x86zp3.jpg") no-repeat center/cover;
 }
 body::before {
   content: '';
@@ -1112,7 +1112,7 @@ body::before {
   color: #f5f6f7;
   background-color: #2d2e30;
   z-index: 0;
-  background: url("/images/banner/wallhaven-6odlkq.png") no-repeat center/cover;
+  background: url("/images/banner/5848e4a37f5e4fb39f4c4384a9c27523.jpg") no-repeat center/cover;
 }
 .footer-inner::before {
   content: '';
