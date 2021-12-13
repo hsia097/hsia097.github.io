@@ -1001,7 +1001,7 @@ body::before {
   color: #f5f6f7;
   background-color: #2d2e30;
   z-index: 0;
-  background: url("/images/banner/wallhaven-q2j9j7.png") no-repeat center/cover;
+  background: url("/images/banner/下载.png") no-repeat center/cover;
 }
 .footer-inner::before {
   content: '';
