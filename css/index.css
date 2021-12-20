@@ -628,7 +628,7 @@ body::after {
   position: fixed;
   height: 100vh;
   z-index: -2;
-  background: url("/images/banner/wallhaven-m9odv9.jpg") no-repeat center/cover;
+  background: url("/images/banner/wallhaven-0pq7g9.png") no-repeat center/cover;
 }
 body::before {
   content: '';
@@ -1001,7 +1001,7 @@ body::before {
   color: #f5f6f7;
   background-color: #2d2e30;
   z-index: 0;
-  background: url("/images/banner/下载.png") no-repeat center/cover;
+  background: url("/images/banner/wallhaven-6odlkq.png") no-repeat center/cover;
 }
 .footer-inner::before {
   content: '';
