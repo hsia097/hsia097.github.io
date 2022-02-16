@@ -628,7 +628,7 @@ body::after {
   position: fixed;
   height: 100vh;
   z-index: -2;
-  background: url("/images/banner/wallhaven-0pq7g9.png") no-repeat center/cover;
+  background: url("/images/banner/wallhaven-x86zp3.jpg") no-repeat center/cover;
 }
 body::before {
   content: '';
